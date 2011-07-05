@@ -15,7 +15,7 @@ gem 'addressable', '~> 2.2.4'
 
 #--[ Authentication ]-----------------------------------------------------------
 gem 'devise'
-gem 'omniauth'
+gem 'omniauth', '>= 0.2.6'
 
 # Automatic login provider selection
 gem 'redfinger'
